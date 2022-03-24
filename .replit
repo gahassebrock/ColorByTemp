@@ -1,0 +1,7 @@
+compile = ["swiftc", "-O", "-o", "main", "main.swift"]
+run = ["./main"]
+
+entrypoint = "main.swift"
+
+[nix]
+channel = "stable-21_11"

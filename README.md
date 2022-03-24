@@ -35,11 +35,11 @@ There are two temp charts available, choose accordingly
 
 | Temperature Range |    Color   |
 |-------------------|------------|
-|    88 or higher   |   Red      |
-|        87-78      |   Orange   |
-|        77-68      |   Yellow   |
-|        67-58      |   Tan      |
-|        57-48      |   Green    |
-|        47-38      | Dark Blue  |
-|        37-28      | Light Blue |
-|    28 or lower    |   Gray     |
+|    89 or higher   |   Red      |
+|        88-78      |   Orange   |
+|        77-67      |   Yellow   |
+|        66-54      |   Tan      |
+|        53-44      |   White    |
+|        43-33      |   Blue     |
+|        32-23      |   Navy     |
+|    22 or lower    |   Black    |
